@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Folder structure
+
+src
+|__ components (shared components between features (common components))
+| |__ Loading
+| |__ index.jsx
+| |__ styles.scss
+|
+|__ features
+| |__ Todo
+| |__ components (components of feature Todo)
+| |__ pages (pages of feature Todo)
+| |__ index.jsx (entry point of feature Todo)
+|
+|__ App.js
+
+## Tips
+- rsfp
+- Alt + Shift + O: optimize import (remove imports unuse)
+
 ## Available Scripts
 
 In the project directory, you can run:
