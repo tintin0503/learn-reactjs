@@ -21,6 +21,8 @@ src
 ## Tips
 - rsfp
 - Alt + Shift + O: optimize import (remove imports unuse)
+- rfc: create function component
+- Fake api: `https://reqres.in/api/${api_name}`
 
 ## Available Scripts
 
